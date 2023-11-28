@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Graduate in Masters of Data Science<br>📚 I'm currently learning Azure technology<br>🎲 Fun fact: I prefer using tabs over spaces</p>
+<p align="left">✨ Graduate in Masters of Data Science<br>📚 I'm currently learning Azure technology<br>🎲 Fun fact: I prefer using spaces over tabs</p>
 
 ###
 
