@@ -41,7 +41,7 @@
 
 ###
 
-<a align="left" href="https://www.linkedin.com/in/anil-kandakatla/" target="_blank" rel="noopener noreferrer">
+<a align="left" href="https://www.linkedin.com/in/anil-kandakatla/" onclick="window.open(this.href, '_blank'); return false;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/ alt="LinkedIn Profile">
 </a>
 
